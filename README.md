@@ -1,5 +1,7 @@
 # vue-clickaway
 
+This re-publish package is for vue3
+
 > Reusable clickaway directive for reusable [Vue.js](https://github.com/vuejs/vue) components
 
 [![npm version](https://img.shields.io/npm/v/vue-clickaway.svg)](https://www.npmjs.com/package/vue-clickaway)

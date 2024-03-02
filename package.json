@@ -1,7 +1,7 @@
 {
-  "name": "vue-clickaway",
+  "name": "@imndx/vue-clickaway",
   "description": "Reusable clickaway directive for reusable Vue.js components",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "author": "Denis Karabaza <denis.karabaza@gmail.com>",
   "browserify": {
     "transform": [
